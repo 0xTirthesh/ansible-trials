@@ -1,0 +1,5 @@
+---
+db_name: myapp
+db_username: sudo
+db_password: root
+db_host: localhost
